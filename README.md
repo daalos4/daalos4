@@ -1,6 +1,6 @@
 Hi 👋, I'm Diego Avalos
 A passionate developer from Spain
-- 🌱 I’m currently learning **I am a systems technician passionate about technology, currently studying the basic principles of various technologies and major programming languages on my own. Although I have not professionally worked in the field of programming, I am determined to start a career in this field.**
+- 🌱 **I am a systems technician passionate about technology, currently studying the basic principles of various technologies and major programming languages on my own. Although I have not professionally worked in the field of programming, I am determined to start a career in this field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
