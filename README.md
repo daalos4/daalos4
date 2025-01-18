@@ -1,16 +1,18 @@
 Hi 👋, I'm Diego Avalos
 a passionate developer from Spain
 - 🌱 **I am a systems technician passionate about technology, currently studying the basic principles of various technologies and major programming languages on my own. Although I have not professionally worked in the field of programming, I am determined to start a career in this field.**
+
 **Goals**:
-- **Short term goals:**
+**Short term goals:**
 - Create a profesional portfolio with a responsive design.
-- Master Javascript and gain profiency in relative libraries and frameworks such as react and Node.js
+- Master Javascript and gain profiency in relative libraries and frameworks such as react and Node.js.
+
 **Long term goals:**
 - Become a proficient backend developer by learning backend technologies like Node.js, Express, and database management systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego-avalos-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-avalos-r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diego-avalos-r" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-avalos-r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔨Here ar the technologies I´ve worked with::</h3>
