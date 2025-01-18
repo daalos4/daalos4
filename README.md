@@ -2,7 +2,8 @@ Hi 👋, I'm Diego Avalos
 a passionate developer from Spain
 - 🌱 **I am a systems technician passionate about technology, currently studying the basic principles of various technologies and major programming languages on my own. Although I have not professionally worked in the field of programming, I am determined to start a career in this field.**
 
-**Goals**:
+**Goals:**
+
 **Short term goals:**
 - Create a profesional portfolio with a responsive design.
 - Master Javascript and gain profiency in relative libraries and frameworks such as react and Node.js.
